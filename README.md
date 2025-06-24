@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hariprechetha
 - 👀 I’m interested in Designing and web development
-- 🌱 I’m currently doing B.Tech 
+- 🌱 I’m a B.Tech graduate 
 - 💞️ I’m looking to collaborate on design and development
 - 📫 How to reach me- hariprechetha@gmail.com
 
